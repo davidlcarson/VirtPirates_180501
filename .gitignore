@@ -12,9 +12,18 @@
 #Config/Binaries/
 
 #Don't save:
-Content/*
-!Content/VirtPirates/*
-!Content/FirstPersonBP/*
+Content/Collections/*
+Content/Developers/*
+Content/GroundPlants/*
+Content/IvyPack/*
+Content/KiteDemo/*
+Content/lowpolyfoliage/*
+Content/LowPolyRainforest/*
+Content/ProceduralNaturePack/*
+Content/Realistic_Bushes_1/*
+#Content/WaterPlane/*
+Content/YughuesWoodenCrates/*
+
 
 #change to force git to re-read
 
