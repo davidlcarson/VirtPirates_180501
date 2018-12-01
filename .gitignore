@@ -14,8 +14,8 @@
 #Don't save:
 Content/*
 #Do save
-!Content/ViftPirates
-!Content/FirstPersonBP
+!Content/VirtPirates/*
+!Content/FirstPersonBP/*
 
 
 #Don't save:
