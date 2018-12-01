@@ -13,10 +13,10 @@
 
 #Don't save:
 Content/*
-#Do save
 !Content/VirtPirates/*
 !Content/FirstPersonBP/*
 
+#change to force git to re-read
 
 #Don't save:
 Build/*
